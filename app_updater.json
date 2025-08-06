@@ -1,0 +1,10 @@
+{
+    "version" : "0.2.0",
+    "notes" : "This is an initial update",
+    "pub_date" : "2025-08-06T9:30:00.50+05:30",
+    "platforms" : {
+        "windows-x86_64" : {
+            "signature" : ${{secrets.TAURI_SIGNING_PRIVATE_KEY}}
+        }
+    }
+}
